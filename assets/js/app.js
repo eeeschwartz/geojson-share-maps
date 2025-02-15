@@ -1,4 +1,4 @@
-L.mapbox.accessToken = "pk.eyJ1IjoiYnJ5bWNicmlkZSIsImEiOiJXN1NuOFFjIn0.3YNvR1YOvqEdeSsJDa-JUw";
+L.mapbox.accessToken = "pk.eyJ1IjoiZXJpa3NjaHdhcnR6IiwiYSI6ImNtNzZxMzF1NjA4em0ybHB5cGt6ZHdwb3cifQ.WahVbdoPtaonG-E2zc0lew";
 
 var titleField, cluster, userFields = [], urlParams = {};
 
